@@ -7,11 +7,13 @@ Esto es un script específico para automatizar la descarga de todos los recursos
 ## Requerimientos
 Se necesita de tener principalmente de dos cosas:
 ### Google Chrome
-https://www.google.com/intl/es_es/chrome/?brand=AJCO&ds_kid=328709829484&gclsrc=aw.ds&gad_source=1&gad_campaignid=22911405483&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzKstexgy48zKHyJBEZTWDUOBuVekczLsBKO4fSfVDYOg66rIe2FHFUaAlrpEALw_wcB
+https://www.google.com/intl/es_es/chrome/?brand=AJCO&ds_kid=328709829484&gclsrc=aw.ds&gad_source=1&gad_campaignid=22911405483&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzKstexgy48zKHyJBEZTWDUOBuVekczLsBKO4fSfVDYOg66rIe2FHFUaAlrpEALw_wcB 
+
 Google Chrome instalado OBLIGATORIAMENTE, PREFERIBLEMENTE con sesión iniciada.
 
 ### Authenticator Extension
 https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai?hl=en-US&utm_source=ext_sidebar
+
 Extensión `Authenticator` OBLIGATORIAMENTE
 1. La extensión se descarga en Chrome
 2. 2. Se añade el código en la extensión (seguir documentación de añadir dispositivo para 2FA) -> Ejemplo: https://sic.us.es/servicios/cuentas-y-accesos-los-servicios/gestion-de-usuarios-y-contrasenas-uvus/doble-factor-de-autenticacion
